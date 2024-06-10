@@ -1,0 +1,36 @@
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.dylib
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Qt Creator
+*.pro.user
+*.qbs.user
+*.qmlproject.user
+*.qmake.stash
+*.qmake.cache
+
+# Visual Studio Code
+.vscode/
+
+# Other IDEs
+.idea/
+*.swp
+
+# Output directories
+build/
+dist/
+tmp/
+
+# Logs
+*.log​⬤
