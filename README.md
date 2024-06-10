@@ -21,8 +21,8 @@ A simple Pomodoro Timer application built with Qt in C++.
 
 2. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/pomodoro-timer.git
-    cd pomodoro-timer
+    git clone https://github.com/mark-scott/pomodoro-plusplus.git
+    cd pomodoro-plusplus
     ```
 
 3. **Build the project**:
@@ -35,4 +35,4 @@ A simple Pomodoro Timer application built with Qt in C++.
 
 Run the compiled binary:
 ```sh
-./pomodoro-timer
+./pomodoro
